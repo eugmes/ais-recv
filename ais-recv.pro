@@ -1,4 +1,4 @@
-update=2020 July 26, Sunday 15:49:05
+update=2020 July 27, Monday 01:44:49
 version=1
 last_client=kicad
 [general]
@@ -273,3 +273,13 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=out
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
