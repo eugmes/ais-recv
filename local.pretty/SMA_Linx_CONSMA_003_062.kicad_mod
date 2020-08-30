@@ -1,4 +1,4 @@
-(module SMA_Linx_CONSMA_003_062 (layer F.Cu) (tedit 5F1E09E9)
+(module SMA_Linx_CONSMA_003_062 (layer F.Cu) (tedit 5F4BF946)
   (descr "Molex SMA RF Connectors, Edge Mount, (http://www.molex.com/pdm_docs/sd/732511150_sd.pdf)")
   (tags "sma edge")
   (attr smd)
@@ -36,8 +36,8 @@
   (pad 1 smd rect (at 2.18 0) (size 3.76 1.52) (layers F.Cu F.Mask))
   (pad 2 smd rect (at 2.18 -2.54) (size 3.76 1.52) (layers F.Cu F.Mask))
   (pad 2 smd rect (at 2.18 2.54) (size 3.76 1.52) (layers F.Cu F.Mask))
-  (pad 2 smd rect (at 2.18 -2.54) (size 3.76 1.52) (layers F.Cu F.Mask))
-  (pad 2 smd rect (at 2.18 2.54) (size 3.76 1.52) (layers F.Cu F.Mask))
+  (pad 2 smd rect (at 2.18 2.54) (size 3.76 1.52) (layers B.Cu B.Mask))
+  (pad 2 smd rect (at 2.18 -2.54) (size 3.76 1.52) (layers B.Cu B.Mask))
   (model ${KIPRJMOD}/consma_003_062.step
     (offset (xyz 0 0 0.6))
     (scale (xyz 1 1 1))
