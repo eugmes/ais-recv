@@ -792,8 +792,6 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21813F.pdf" H 10100 1600 50
 	1    10100 1700
 	-1   0    0    -1  
 $EndComp
-Text Notes 9550 1100 0    50   ~ 10
-Check the package footprint!
 Wire Wire Line
 	10500 1700 10600 1700
 Wire Wire Line
